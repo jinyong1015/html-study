@@ -3,6 +3,8 @@
 2025.01.06 - 핵심 태그, block태그 <br/>
 2025.01.08 - inline 속성 <br/>
 2025.01.09 - Flexbox <br/>
-2025.01.10 - Position 레이아웃
+2025.01.10 - Position 레이아웃  <br/>
+2025.01.12 - 복습  <br/>
+<br/>
 // ctrl + / : 주석 <br/>
 // shift + alt + ↓ : 연속 복사 <br/>
