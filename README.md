@@ -5,6 +5,7 @@
 2025.01.09 - Flexbox <br/>
 2025.01.10 - Position 레이아웃  <br/>
 2025.01.12 - 복습  <br/>
+2025.01.13 - Hover <br/>
 <br/>
 // ctrl + / : 주석 <br/>
 // shift + alt + ↓ : 연속 복사 <br/>
