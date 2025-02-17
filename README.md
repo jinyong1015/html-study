@@ -17,5 +17,6 @@
 // shift + alt + ↓ : 연속 복사 <br/>
 
 02 - shopping clone coding <br/>
-2025.02.12 - html 태그 <br/>
-2025.02.13 - html 태그2 <br/>
+2025.02.12 - html 1 <br/>
+2025.02.13 - html 2 <br/>
+2025.02.17 - html 3 <br/>
