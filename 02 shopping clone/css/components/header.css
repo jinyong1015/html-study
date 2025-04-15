@@ -26,6 +26,45 @@
   justify-content: flex-end;
 }
 .header_content{
-  margin: 0 15px;
+  margin: 0 20px;
+  
+  
 }
+/* 아래 헤더 */
+.header_category {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+.header_cart-badge {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  width: 15px;
+  height: 15px;
+  padding: 2px;
+  position: absolute;
+  top: -13px;
+  right: -13px;
+}
+.header_content-badge-box {
+  position: relative;
+}
+.header_cart-badge span {
+color: white;
+}
+/* 사용자 badge, 포인트 알림 */
+.header_user-badge {
+  background-color: #d5d2cb;
+  color: white;
+  padding: 3px 6px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 
