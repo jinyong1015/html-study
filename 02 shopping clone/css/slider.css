@@ -1,0 +1,76 @@
+.main_slider {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  background-color: #4c5a4a;
+  position: relative;
+}
+
+.main_slider-btn i {
+  transform: scale(1.5);
+  color: white;
+}
+
+.main_slider-text {
+  color: white; 
+  text-shadow: 1px 1px 5px black;
+}
+
+.main_slider-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main_slider-image-container {
+  width: 300px;
+  height: 400px;
+  overflow : hidden;
+  border-top-left-radius : 50%;
+  border-top-right-radius: 50%;
+  margin: 15px 0;
+}
+
+.main_slider-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.main_slider-title {
+  color: white;
+  font-weight: 600;
+  font-size: 80px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.main_progress-bar {
+  width: 150px;
+  height: 3px;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+}
+
+.main_progress-bar-item {
+  height: 100%;
+  background-color: white;
+  margin: 0 2px;
+
+}
+
+.main_progress-bar-item--visible {
+  width: 50%;
+}
+
+.main_progress-bar-item--invisible {
+  width: 25%;
+  opacity: 0.5;
+}
+
