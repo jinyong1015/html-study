@@ -1,3 +1,6 @@
+.header {
+  height: 20vh; 
+}
 .header_top {
   display: flex;
   justify-content: space-between;
@@ -57,7 +60,7 @@ color: white;
 }
 /* 사용자 badge, 포인트 알림 */
 .header_user-badge {
-  background-color: #d5d2cb;
+  background-color: #d5d2cb; 
   color: white;
   padding: 3px 6px;
   border-radius: 5px;
