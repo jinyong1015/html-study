@@ -26,11 +26,12 @@
 2025.03.20 - css - flex <br/>
 2025.04.05 - css - position <br/>
 2025.04.06 - css - transition, transform <br/>
-2025.04.08 - clone - header layout <br/> 
-2025.04.09 - clone - header design <br/>
-2025.04.15 - clone - header design 2 <br/>
-2025.04.29 - clone - main layout <br/>
-2025.06.07 - clone - header review <br/>
-2025.06.08 - clone - main design <br/>
-2025.06.09 - clone - main2 layout <br/> 
-2025.06.10 - clone - main2 design <br/>
+2025.04.08 - header layout <br/> 
+2025.04.09 - header design <br/>
+2025.04.15 - header design 2 <br/>
+2025.04.29 - main layout <br/>
+2025.06.07 - header review <br/>
+2025.06.08 - main design <br/>
+2025.06.09 - main2 layout <br/> 
+2025.06.10 - main2 design <br/>
+2025.08.10 - today best month layout, design <br/>
