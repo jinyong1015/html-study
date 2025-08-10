@@ -33,3 +33,4 @@
 2025.06.07 - clone - header review <br/>
 2025.06.08 - clone - main design <br/>
 2025.06.09 - clone - main2 layout <br/> 
+2025.06.10 - clone - main2 design <br/>
