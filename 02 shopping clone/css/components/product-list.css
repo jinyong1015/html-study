@@ -1,26 +1,26 @@
-.main_month-best {
+.main_product-list {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.main_best-title {
+.main_product-list-title {
   font-size: 25px;
   font-weight: 600;
   margin-bottom: 10px;
 }
 
-.main_best-sub-title {
+.main_product-list-sub-title {
   font-size: 17px;
   color: rgba(0,0,0,0.7);
 }
 
-.main_best-sub-container {
+.main_product-list-sub-container {
   display: flex;
   margin: 40px 0;
 }
 
-.main_best-article {
+.main_product-list-article {
   width: 330px;
   height: 550px;
   overflow: hidden;
@@ -47,7 +47,6 @@
   width: 10px;
   height: 10px;
   border-radius: 100%;
-  border: 1px solid black;
   margin-right: 5px;
 }
 

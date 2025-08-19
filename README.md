@@ -34,4 +34,5 @@
 2025.06.08 - main design <br/>
 2025.06.09 - main2 layout <br/> 
 2025.06.10 - main2 design <br/>
-2025.08.10 - today best month layout, design <br/>
+2025.08.10 - best month layout, design <br/>
+2025.08.19 - footer layout, design <br/>
