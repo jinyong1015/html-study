@@ -36,3 +36,4 @@
 2025.06.10 - main2 design <br/>
 2025.08.10 - best month layout, design <br/>
 2025.08.19 - footer layout, design <br/>
+2025.09.01 - login page layout <br/>
