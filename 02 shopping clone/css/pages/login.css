@@ -18,9 +18,10 @@
 }
 
 .login_text {
-  color: rgba(0,0,0,0.7);
+  color: rgba(0,0,0,0.5);
   margin-bottom : 7px;
   text-decoration: none;
+  transition: color 0.2s ease-in-out;
 }
 
 .login_form {
@@ -35,6 +36,17 @@
   padding: 10px 0;
   border: none;
   margin : 5px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.login_btn svg {
+  width: 25px;
+  height: 30px;
+  position: absolute;
+  left: 30px;
 }
 
 .login_btn--kakko {
@@ -47,6 +59,12 @@
 .login_btn--naver {
   background-color: #1EC800;
 }
+
+.login_btn--naver svg {
+  fill: white;
+}
+
+/* svg가 color로 바뀌지 않으면 fill로 변경할 수 있음*/
 
 .login_text-box {
   margin-bottom: 30px;
@@ -62,6 +80,22 @@
 
 .login_input {
   border: none;
-  border-bottom: 1px solid rgba(0,0,0,0.7);
+  border-bottom: 1px solid rgba(0,0,0,0.5);
   margin-top : 10px;
+}
+
+.login_input:focus{
+  outline: none;
+  border-color:black ;
+}
+/* : focus 클릭했을 때 박스 생기는거 없애줌 */
+
+.login_label:focus-within .login_text {
+  color : black;
+}
+
+/* focus-within 포커스를 받았을 때 해당 요소를 css 함 */
+
+.login_text-box .login_text:hover {
+  color : black;
 }
