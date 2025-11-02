@@ -39,3 +39,4 @@
 2025.09.01 - login page layout <br/>
 2025.09.16 - login page design 1 <br/>
 2025.10.14 - login page design 2 <br/>
+2025.11.02 - sub page, animation <br/>
