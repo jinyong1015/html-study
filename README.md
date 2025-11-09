@@ -40,3 +40,27 @@
 2025.09.16 - login page design 1 <br/>
 2025.10.14 - login page design 2 <br/>
 2025.11.02 - sub page, animation <br/>
+
+<p align="center">
+
+<b>1. 헤더, 메인 페이지</b><br/>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/1814251d-8ecf-4816-af0d-2f51012c2f95" /><br/>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/4e786cd1-f4d4-4333-9707-7e7c44ca8d6e" />
+
+<br/><br/>
+
+<b>2. 이 달의 베스트</b><br/>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/82153382-b6fa-40eb-9868-d681f04513bd" /><br/>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/1236cb90-87f6-4110-877d-5a5cbc6defd2" />
+
+<br/><br/>
+
+<b>3. Footer 페이지</b><br/>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/40a6c7ad-c407-4306-962d-4ed06aedbd83" />
+
+<br/><br/>
+
+<b>4. 로그인 페이지</b><br/>
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/7eb04109-5c85-46e3-bc6c-576bcb618984" />
+
+</p>
